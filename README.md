@@ -1,2 +1,6 @@
 # IOCTL-Explorer
-Ghidrathon script to automatically find all IOCTL codes and their corresponding Windows API calls
+This script was made and tested using [Ghidrathon](https://github.com/mandiant/Ghidrathon)  
+
+## How to isntall
+- Just drop the `.py` file inside of your `$USER_HOME/ghidra_scripts` folder and reload your scripts
+- It will be in the Script Manager, under Python3
