@@ -1,7 +1,7 @@
 # IOCTL-Explorer
 This script was made and tested using [Ghidrathon](https://github.com/mandiant/Ghidrathon)  
 
-## How to isntall
+## How to install
 - Just drop the `.py` file inside of your `$USER_HOME/ghidra_scripts` folder and reload your scripts
 - It will be in the Script Manager, under Python3
 
